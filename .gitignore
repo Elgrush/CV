@@ -1,0 +1,14 @@
+.direnv/
+
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.cut
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.xdv
